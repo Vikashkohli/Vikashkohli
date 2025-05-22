@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Vikashkohli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Vikashkohli/Vikashkohli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+aiohappyeyeballs==2.6.1
+aiohttp==3.11.14
+aiosignal==1.3.2
+asyncio==3.4.3
+attrs==25.3.0
+frozenlist==1.5.0
+idna==3.10
+multidict==6.2.0
+propcache==0.3.1
+pyaes==1.6.1
+pyasn1==0.6.1
+rsa==4.9
+Telethon==1.39.0
+yarl==1.18.3aiohappyeyeballs==2.6.1
+aiohttp==3.11.14
+aiosignal==1.3.2
+asyncio==3.4.3
+attrs==25.3.0
+frozenlist==1.5.0
+idna==3.10
+multidict==6.2.0
+propcache==0.3.1
+pyaes==1.6.1
+pyasn1==0.6.1
+rsa==4.9
+Telethon==1.39.0
+yarl==1.18.3
