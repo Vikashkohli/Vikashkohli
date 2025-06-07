@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ GOD FATHER USER BOT❤️</b></h1>
 <p align="center">
   <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
 </p>
@@ -10,9 +10,9 @@
 
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/WCGKING"><img alt="Website" src="https://img.shields.io/badge/𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
+  <a href="https://github.com/WCGKING"><img alt="Website" src="https://img.shields.io/badge/GOD FATHER 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
  
-[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/WCGKING/StringGenBot?style=social)](https://github.com/WCGKING/StringGenBot/stargazers)
+[![GOD FATHER 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/WCGKING/StringGenBot?style=social)](https://github.com/WCGKING/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/WCGKING/StringGenBot?style=social)](https://github.com/WCGKING/StringGenBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
